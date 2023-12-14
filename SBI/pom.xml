@@ -16,6 +16,6 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>SBI</finalName>
+    <finalName>SBII</finalName>
   </build>
 </project>
